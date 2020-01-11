@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b77a51d19bfe0c740b80afd5f6a04831
+timeCreated: 1503139811
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Immortal
+  fontNames:
+  - Immortal
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
